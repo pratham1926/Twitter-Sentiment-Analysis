@@ -4,7 +4,7 @@
 
 Twitter Sentiment Analysis is a Natural Language Processing (NLP) project that classifies tweets into **Positive**, **Negative**, or **Neutral** sentiments. This project aims to gain insights from public opinions on social media using machine learning techniques.
 
-## 🚀 Features
+# 🚀 Features
 
 * Scrape or import tweets using the Twitter API
 * Clean and preprocess tweet text
